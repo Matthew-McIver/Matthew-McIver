@@ -7,3 +7,4 @@
 Matthew-McIver/Matthew-McIver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://img.shields.io/badge/code-python-international?style=flat&logo=python&logoColor=white&color=2bbc8a)
