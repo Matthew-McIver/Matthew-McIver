@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matthew-McIver
 - 👀 I’m interested in programming in relation to robotics, particularly swarm robotics.
-- 🌱 I’m a Master's degree graduate in Intelligent Robotics.
+- 🎓 I’m a Master's degree graduate in Intelligent Robotics.
 - 📫 How to reach me: Email at matthewpetermciver@gmail.com.
 
 <!---
